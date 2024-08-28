@@ -10,7 +10,7 @@ dotenv.config();
 
 const app = express();
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: 'https://66ceeb4064690317729637e6--lucent-centaur-108369.netlify.app',
     credentials: true
 }));
 database();
