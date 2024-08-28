@@ -10,7 +10,7 @@ dotenv.config();
 
 const app = express();
 app.use(cors({
-    origin: 'https://66ceeb4064690317729637e6--lucent-centaur-108369.netlify.app',
+    origin: 'https://66cef1046a57c21e933de05f--heartfelt-panda-813878.netlify.app',
     credentials: true
 }));
 database();
